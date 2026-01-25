@@ -1,20 +1,17 @@
-# Hi, I'm Tomás ("Chuli") 👋
+# Hi, I'm Chuli 👋
 
-I'm a **full-stack product engineer** focused on building and shipping end-to-end software:
-from discovery → architecture → implementation → deployment → iteration.
+I'm a full-stack product engineer who ships end-to-end software — from discovery and architecture to deployment and iteration.
 
-**Core stack:** TypeScript, Node.js/NestJS, React/Next.js, React Native, AWS
-**Engineering interests:** clean architecture, event-driven systems, testing, and developer experience.
+**Core stack:** TypeScript · Node.js/NestJS · React/Next.js · React Native · AWS
+**I care about:** Clean Architecture · event-driven systems · testing · DX
 
 ## Featured work
 
-- **chuli-dev-libs** — production-ready TypeScript libraries to speed up delivery across Node/Web/React/React Native.
-  https://github.com/TomasAntunez/chuli-dev-libs
+- [chuli-dev-libs](https://github.com/TomasAntunez/chuli-dev-libs) — production-ready TypeScript libraries to speed up delivery across Node/Web/React/React Native.
 
 ## Currently building
 
-- **Shinobi Ledger** — a personal finance platform (early stage / work in progress).
-  (Public release when it’s ready.)
+- **Shinobi Ledger** — personal finance platform (WIP). Public release when it’s ready.
 
 ## How I like to work
 
