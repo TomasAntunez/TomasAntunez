@@ -2,7 +2,7 @@
 
 I'm a full-stack product engineer who ships end-to-end software — from discovery and architecture to deployment and iteration.
 
-**Core stack:** TypeScript · Node.js/NestJS · React/Next.js · React Native · AWS
+**Core stack:** TypeScript · Node.js/NestJS · React/Next.js · React Native · AWS<br />
 **I care about:** Clean Architecture · event-driven systems · testing · DX
 
 ## Featured work
