@@ -9,6 +9,8 @@ I'm a full-stack product engineer who ships end-to-end software — from discove
 
 - [chuli-dev-libs](https://github.com/TomasAntunez/chuli-dev-libs) — production-ready TypeScript libraries to speed up delivery across Node/Web/React/React Native.
 
+- [typescript-config](https://www.npmjs.com/package/@chuli-dev/typescript-config) — strict TSConfig presets
+
 ## Currently building
 
 - **Shinobi Ledger** — personal finance platform (WIP). Public release when it’s ready.
