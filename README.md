@@ -2,7 +2,6 @@
 
 I'm a **product-minded builder** and full-stack software engineer who ships end-to-end software — from discovery and architecture to deployment, monitoring, and iteration.
 
-**Core stack:** TypeScript · Node.js/NestJS · React/Next.js · React Native · AWS · Kubernetes · Terraform<br />
 **I care about:** Clean Architecture · DDD · microservices · event-driven systems · testing · DX
 
 I publish reusable tooling and continue growing my library ecosystem.
