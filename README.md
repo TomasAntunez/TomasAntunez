@@ -8,8 +8,11 @@ I publish reusable tooling and continue growing my library ecosystem.
 
 ## Open-source libraries (NPM)
 
-- [@chuli-dev/typescript-config](https://www.npmjs.com/package/@chuli-dev/typescript-config) — strict TSConfig presets
-- [@chuli-dev/eslint-config](https://www.npmjs.com/package/@chuli-dev/eslint-config) — ESLint presets for consistent code quality
+- [@chuli-dev/typescript-config](https://www.npmjs.com/package/@chuli-dev/typescript-config) — strict TSConfig presets for Node, Web, React and libraries
+- [@chuli-dev/eslint-config](https://www.npmjs.com/package/@chuli-dev/eslint-config) — composable ESLint flat config presets for consistent code quality
+- [@chuli-dev/prettier-config](https://www.npmjs.com/package/@chuli-dev/prettier-config) — shared Prettier configuration
+- [@chuli-dev/errors](https://www.npmjs.com/package/@chuli-dev/errors) — domain-oriented error classes for TypeScript applications
+- [@chuli-dev/value-objects](https://www.npmjs.com/package/@chuli-dev/value-objects) — DDD-style Value Object base class and primitives
 
 ## Featured work
 
